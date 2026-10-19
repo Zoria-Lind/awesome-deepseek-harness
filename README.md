@@ -2679,6 +2679,7 @@ _Reusable sub-agents / specialized agent packs runnable inside DSH._
 - [jiang12345-code/dsh-agent-selector](https://github.com/jiang12345-code/dsh-agent-selector) — Agent-orchestration model router for DeepSeek Harness (dsh-plugin), spanning agent-orchestration, claude-code, codex, and WorkBuddy.
 - [yuwenbin521wl-cell/dsh-agent-teams](https://github.com/yuwenbin521wl-cell/dsh-agent-teams) — Multi-agent collaboration plugin for DeepSeek Harness (0.1.2-alpha.4). Durable members, dependency task DAG, live Web panel, new-session adopt/rehome takeover, captain bookkeeping.
 - [nescafe2009/dsh-grokbot](https://github.com/nescafe2009/dsh-grokbot) — Grok Bot-style resident agent team, implemented as a pure DeepSeek Harness (DSH) plugin: unified session entity / preset experts / group-chat handoff / persistent memory / approval cards.
+- [zhangjingyuan177-hue/dsh-feishu-writer](https://github.com/zhangjingyuan177-hue/dsh-feishu-writer) — Write tools for DeepSeek Harness: let your agent create Feishu docs, spreadsheets, Bitables and wiki spaces via the official lark-cli.
 
 ## Loops (Auto-Research, Self-Improve, etc.)
 
