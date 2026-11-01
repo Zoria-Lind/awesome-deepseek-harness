@@ -1899,6 +1899,7 @@ _把 DSH 桥接到各种聊天平台与消息通道。_
 - [wzj998/ChatCCC](https://github.com/wzj998/ChatCCC) — 飞书（Lark）或微信（WeChat）聊天控制 DeepSeek Harness / Claude Code / Cursor / Codex / CCC Agent。
 - [PerryLink/dsh-reach](https://github.com/PerryLink/dsh-reach) —— 将 DSH 的审批卡与提问卡推送到 IM 渠道（先微信）并在聊天中作答，带逐渠道安全与开放推送服务。
 - [PerryLink/dsh-wechat](https://github.com/PerryLink/dsh-wechat) —— 将微信私聊消息桥接到 DSH，支持文本、图片、文件与音视频双向传输。
+- [yinsang0910-star/dsh-feishu](https://github.com/yinsang0910-star/dsh-feishu) —— 把飞书接成 DeepSeek Harness 的操作台：长连接机器人 + 36 工具 MCP server + 卡片网关，收发文件与图片、引用消息回溯、每人独立会话，不需要公网 IP。
 ## 插件市场与生态
 
 _插件市场、安装管理器、索引与生态工具。_

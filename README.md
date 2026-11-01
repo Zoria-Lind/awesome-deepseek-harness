@@ -1887,6 +1887,7 @@ _Bridges DSH into chat platforms and messaging channels._
 - [azure5100/huahua-dsh-chatroom](https://github.com/azure5100/huahua-dsh-chatroom) — dsh-chat/dsh-weave cross-machine group chat: Fix1-Fix4 adaptation patches plus an ops documentation set (sanitized).
 - [PerryLink/dsh-reach](https://github.com/PerryLink/dsh-reach) — Pushes DSH approval and question cards to IM channels (WeChat first) and answers them from chat, with per-channel security and an open push service.
 - [PerryLink/dsh-wechat](https://github.com/PerryLink/dsh-wechat) — Bridges WeChat private messages to DSH with two-way text, image, file, and media transfer.
+- [yinsang0910-star/dsh-feishu](https://github.com/yinsang0910-star/dsh-feishu) — Feishu/Lark bridge for DeepSeek Harness: long-connection bot, 36-tool MCP server, card gateway, file and image intake, quoted-message recall, per-user sessions, no public IP required.
 
 ## Plugin Marketplaces & Ecosystem
 - [bululuburuarua666/dsh-plugin-manager](https://github.com/bululuburuarua666/dsh-plugin-manager) — Community plugin manager for DeepSeek Harness: origin classification, safe hot disable/enable, and transactional uninstall.
