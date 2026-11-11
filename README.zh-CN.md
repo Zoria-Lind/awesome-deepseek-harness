@@ -4498,6 +4498,7 @@ _打包好的任务能力（基于 markdown 的 skill、工具包）。_
 - [siweimofang/zhishe-a2a](https://github.com/siweimofang/zhishe-a2a) —— 知设AI装修顾问 - 主仓库（知识库+DSH插件+GEO）。
 - [ZF3373/dsh-algo-trainer](https://github.com/ZF3373/dsh-algo-trainer) —— 面向 DeepSeek Harness 的 ICPC 算题往目训练插件 —— 同步、分析、计划、复盘、模板。
 - [loyalchiiina/dsh-skill-browser](https://github.com/loyalchiiina/dsh-skill-browser) —— DSH 技能浏览器：悬浮球面板 + 分类 + 中文简介 + 技能失效台账自动登记。
+- [rxdage/static-html-comments](https://github.com/rxdage/static-html-comments) —— 本机静态 HTML 点选批注；批注落进项目文件，Agent 回写回复，页面字节不变，零依赖。
 
 ## 资源
 
