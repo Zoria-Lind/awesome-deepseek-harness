@@ -4500,6 +4500,7 @@ _Packaged task capabilities (markdown-based skills, tool packs)._
 - [siweimofang/zhishe-a2a](https://github.com/siweimofang/zhishe-a2a) — Zhishe AI renovation advisor main repo: knowledge base + DSH plugin + GEO.
 - [ZF3373/dsh-algo-trainer](https://github.com/ZF3373/dsh-algo-trainer) — ICPC competitive-programming training plugin for DeepSeek Harness — sync, analysis, plans, reviews, templates.
 - [loyalchiiina/dsh-skill-browser](https://github.com/loyalchiiina/dsh-skill-browser) — DSH skill library browser with a floating-ball panel, categories, Chinese descriptions, and an automatic skill-failure ledger (tools/result based).
+- [rxdage/static-html-comments](https://github.com/rxdage/static-html-comments) — Click-to-comment for local static HTML; comments land in a project file, the agent replies, and page bytes stay unchanged. Zero dependencies.
 
 ## Resources
 
